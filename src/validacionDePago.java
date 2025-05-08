@@ -19,6 +19,7 @@ public class validacionDePago {
         } else {
             System.out.println("Pago insuficiente");
         }
+        System.out.println("para el otro commit");
 
 
 
